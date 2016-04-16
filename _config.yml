@@ -11,7 +11,8 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "Aliis Sinisalu"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://localhost:4000"
+words_per_minute         : 200
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -70,13 +71,13 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
+  flickr           : "135501264@N06"
+  facebook         : "aliissinisalu"
   foursquare       :
   github           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "aliisumiisu"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -204,3 +205,23 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
