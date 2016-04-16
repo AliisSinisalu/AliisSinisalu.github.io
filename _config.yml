@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "I'm alive and drunk on sunlight"
 title_separator          : "-"
 name                     : "Aliis Sinisalu"
-description              : "An amazing website."
+description              : 
 url                      : "https://aliissinisalu.github.io"
 words_per_minute         : 200
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -65,7 +65,7 @@ author:
   name             : "Aliis Sinisalu"
   avatar           : "avatar.jpg"
   bio              : "I am an amazing person."
-  location         : 
+  location         :
   email            :
   uri              :
   bitbucket        :
