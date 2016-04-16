@@ -11,7 +11,7 @@ title                    : "Site Title"
 title_separator          : "-"
 name                     : "Aliis Sinisalu"
 description              : "An amazing website."
-url                      : "http://aliissinisalu.github.io"
+url                      : "https://aliissinisalu.github.io"
 words_per_minute         : 200
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
