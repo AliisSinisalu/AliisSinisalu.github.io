@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+{% assign first = paginator.posts.first %}
 
-{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
-  {% include page__hero.html %}
+{% if (first.header.overlay_color or first.header.overlay_image) or first.header.image %}
+  {% include page__hero.html index_object=first %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}

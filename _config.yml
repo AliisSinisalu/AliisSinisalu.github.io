@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "I'm alive and drunk on sunlight"
 title_separator          : "-"
 name                     : "Aliis Sinisalu"
-description              : 
+description              :
 url                      : "https://aliissinisalu.github.io"
 words_per_minute         : 200
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -147,7 +147,7 @@ kramdown:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /blog/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

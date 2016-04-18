@@ -1,8 +1,8 @@
 ---
-title:  "Hello World"
+title:  "Welcome to Jekyll!"
 header:
-  teaser: unsplash-image-1.jpg
-  overlay_image: unsplash-image-1.jpg
+  teaser: unsplash-image-2.jpg
+  overlay_image: unsplash-image-2.jpg
   overlay_color: "#000"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "Loe"
@@ -10,7 +10,7 @@ categories:
   - Jekyll
 tags:
   - update
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu libero a est feugiat varius. Fusce dictum ultrices fringilla."
 ---
 
 You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
