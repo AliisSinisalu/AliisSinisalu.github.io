@@ -1,5 +1,9 @@
 ---
 published: true
+category: ""
+excerpt: Siia kirjuta midagi sissejuhatavat. Jepjep.
+tags: null
+title: Pakime elu kokku. Maailm kutsub.
 ---
 Yo yo whats up. Ma olen nii cool lihtsalt.
 
