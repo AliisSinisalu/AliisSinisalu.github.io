@@ -233,24 +233,21 @@ prose:
     _posts:
       - name: "category"
         field:
-          element: "hidden"
-          value: "blog"
+          element: "text"
+          label: "Category"
+          value: ""
       - name: "title"
         field:
           element: "text"
           label: "Title"
           value: ""
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Excerpt"
+          value: ""
       - name: "tags"
         field:
           element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
+          label: "Tags"
+          alterable: true
