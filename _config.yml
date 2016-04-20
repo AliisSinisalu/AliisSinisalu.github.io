@@ -231,7 +231,7 @@ prose:
   media: 'images'
   metadata:
     _posts:
-      - name: "category"
+      - name: "category.test"
         field:
           element: "text"
           label: "Category"
@@ -251,9 +251,3 @@ prose:
           element: "multiselect"
           label: "Tags"
           alterable: true
-      - header:
-          name: "teaser"
-          field:
-            element: "text"
-            label: "Teaser image"
-            value: ""
