@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Yo yo whats up. Ma olen nii cool lihtsalt.
 
