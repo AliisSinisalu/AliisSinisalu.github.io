@@ -251,3 +251,9 @@ prose:
           element: "multiselect"
           label: "Tags"
           alterable: true
+      - header:
+          name: "teaser"
+          field:
+            element: "text"
+            label: "Teaser image"
+            value: ""
