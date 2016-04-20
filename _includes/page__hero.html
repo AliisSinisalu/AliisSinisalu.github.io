@@ -40,7 +40,7 @@
           {{ data.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-      {% if data.excerpt %}
+      {% if data.excerpt and paginator %}
         <p class="page__lead">{{ data.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
       {% endif %}
       {% if site.read_time and data.read_time %}
