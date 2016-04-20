@@ -33,7 +33,7 @@
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
         {% if page.index %}
-          Viimane postitus: {{ data.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+          {{ data.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% elsif paginator %}
           {{ site.title }}{% unless paginator.page == 1 %} {{ site.data.ui-text[site.locale].page }} {{ paginator.page }}{% endunless %}
         {% else %}
