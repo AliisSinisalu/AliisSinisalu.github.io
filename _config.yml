@@ -231,7 +231,7 @@ prose:
   media: 'images'
   metadata:
     _posts:
-      - name: "category.test"
+      - name: "category"
         field:
           element: "text"
           label: "Category"
