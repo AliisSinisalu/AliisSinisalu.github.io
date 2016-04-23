@@ -1,8 +1,8 @@
 ---
 title:  "Pakime elu kokku. Maailm kutsub."
 header:
-  teaser: field.jpg
-  overlay_image: field.jpg
+  teaser: pold.jpg
+  overlay_image: pold.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu libero a est feugiat varius. Fusce dictum ultrices fringilla."
