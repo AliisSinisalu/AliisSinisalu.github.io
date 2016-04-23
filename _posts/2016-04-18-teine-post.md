@@ -3,6 +3,7 @@ title:  "Welcome to Jekyll!"
 header:
   teaser: unsplash-image-2.jpg
   overlay_image: unsplash-image-2.jpg
+  image: unsplash-image-2.jpg
   overlay_color: "#000"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   cta_label: "Loe"
