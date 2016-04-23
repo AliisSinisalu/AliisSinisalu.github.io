@@ -11,7 +11,7 @@ title                    : "I'm alive and drunk on sunlight"
 title_separator          : "-"
 name                     : "Aliis Sinisalu"
 description              :
-url                      : "https://aliissinisalu.github.io"
+url                      : "http://blog.aliissinisalu.com"
 words_per_minute         : 200
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
 
 prose:
-  siteurl: 'https://aliissinisalu.github.io/'
+  siteurl: 'http://blog.aliissinisalu.com/'
   media: 'images'
   metadata:
     _posts:
