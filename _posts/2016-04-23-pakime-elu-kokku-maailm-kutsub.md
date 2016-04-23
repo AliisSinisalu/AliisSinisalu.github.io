@@ -8,8 +8,6 @@ header:
   cta_label: Loe
 excerpt: "Nii, siin ma nüüd jälle olen. Seekord oma tuliuue isikliku blogiga. Kuna kuu aja pärast saab minu kuue aasta pikkune Tallinna fabulous elu selleks korraks läbi, siis mõtlesin, et võiks oma eelseisva who-knows-what's-going-to-happen-elu kajastamiseks blogi teha."
 published: true
-category: ""
-tags: null
 ---
 Nii, siin ma nüüd jälle olen. Seekord oma tuliuue isikliku blogiga. Kuna kuu aja pärast saab minu kuue aasta pikkune Tallinna fabulous elu selleks korraks läbi, siis mõtlesin, et võiks oma eelseisva who-knows-what's-going-to-happen-elu kajastamiseks blogi teha.
 
