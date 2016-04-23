@@ -15,7 +15,7 @@
 {% if data.header.cta_url contains "http" %}
   {% capture cta_path %}{{ data.header.cta_url }}{% endcapture %}
 {% elsif page.index %}
-  {% capture cta_path %}{{ base_path }}/{{ data.url }}{% endcapture %}
+  {% capture cta_path %}{{ base_path }}{{ data.url }}{% endcapture %}
 {% else %}
   {% capture cta_path %}{{ data.header.cta_url | prepend: base_path }}{% endcapture %}
 {% endif %}
