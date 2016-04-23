@@ -6,7 +6,7 @@ header:
   image: pold.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: Loe
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu libero a est feugiat varius. Fusce dictum ultrices fringilla."
+excerpt: "Nii, siin ma nüüd jälle olen. Seekord oma tuliuue isikliku blogiga. Kuna kuu aja pärast saab minu kuue aasta pikkune Tallinna fabulous elu selleks korraks läbi, siis mõtlesin, et võiks oma eelseisva who-knows-what's-going-to-happen-elu kajastamiseks blogi teha."
 published: true
 category: ""
 tags: null
