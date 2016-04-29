@@ -17,9 +17,7 @@ No üks mu unistustest on olnud teha pikk matk. Nagu ma juba maininud olen, siis
 
 Killuke Pacific Crest Trail'ist (interneti avarustest):
 
-
 ![oregon]({{site.baseurl}}/images/oregon-2.jpg)
-
 
 ![yosemite]({{site.baseurl}}/images/yosemite.jpg)
 
