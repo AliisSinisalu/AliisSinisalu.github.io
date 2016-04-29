@@ -3,7 +3,7 @@ category: ""
 excerpt: null
 tags: null
 published: false
-title: Julge unistada
+title: Untitled
 ---
 Heihei. Mingit sajandisündmust vahepeal toimunud pole, aga proovin endale kirjutamisharjumust tekitada. Kord nädalas võiks ju ikka välja vedada. Olen sattunud maale chillama, mis ideaalis võiks mõttelennuks mõnus keskkond olla. That's what I'm talking about:
 
