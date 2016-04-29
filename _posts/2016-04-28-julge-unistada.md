@@ -1,12 +1,9 @@
 ---
-title: Julge unistada!
-header: 
-  teaser: julgeunistada.jpg
-  overlay_image: julgeunistada.jpg
-  image: julgeunistada.jpg
-  caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
-  cta_label: Loe
-excerpt: "Kui mul mingist sajandisündmusest rääkida pole, siis on hea võimalus "deep" olla. Mõtlesin, et räägiks veits unistustest..."
+category: ""
+excerpt: null
+tags: null
+published: false
+title: Untitled
 ---
 Heihei. Mingit sajandisündmust vahepeal toimunud pole, aga proovin endale kirjutamisharjumust tekitada. Kord nädalas võiks ju ikka välja vedada. Olen sattunud maale chillama, mis ideaalis võiks mõttelennuks mõnus keskkond olla. That's what I'm talking about:
 
