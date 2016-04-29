@@ -1,5 +1,5 @@
 ---
-title: Julge unistada!
+title: Julge unistada
 header: 
   teaser: julgeunistada.jpg
   overlay_image: julgeunistada.jpg
