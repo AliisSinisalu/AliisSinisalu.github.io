@@ -7,9 +7,7 @@ title: Untitled
 ---
 Heihei. Mingit sajandisündmust vahepeal toimunud pole, aga proovin endale kirjutamisharjumust tekitada. Kord nädalas võiks ju ikka välja vedada. Olen sattunud maale chillama, mis ideaalis võiks mõttelennuks mõnus keskkond olla. That's what I'm talking about:
 
-
 ![maal]({{site.baseurl}}/images/varviline.jpg)
-
 
 Ausalt öeldes, ega see praegu ei aita küll, kui nohu pärast jooksevad silmad vett ja iga viie minuti tagant on emal midagi supertähtsat minuga arutada. Aga saab hakkama. Peab saama.
 
