@@ -6,8 +6,8 @@ header:
   image: julgeunistada.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
-excerpt: "Kui mul mingist sajandisündmusest rääkida pole, siis on hea võimalus "deep" olla. Mõtlesin, et räägiks veits unistustest..."
-published: true
+excerpt: Kui mul mingist sajandisündmusest rääkida pole, siis on hea võimalus "deep" olla. Mõtlesin, et räägiks veits unistustest...
+published: false
 ---
 Heihei. Mingit sajandisündmust vahepeal toimunud pole, aga proovin endale kirjutamisharjumust tekitada. Kord nädalas võiks ju ikka välja vedada. Olen sattunud maale chillama, mis ideaalis võiks mõttelennuks mõnus keskkond olla. That's what I'm talking about:
 
@@ -26,8 +26,9 @@ Killuke Pacific Crest Trail'ist (interneti avarustest):
 ![yosemite]({{site.baseurl}}/images/yosemite.jpg)
 
 
-Mul on veel mõned toredad unistused, küll te neist ka veel kuulete. Unistame aga edasi ja püüdleme kõige selle poole, mis meid õnnelikuks teeb! 
+Mul on veel mõned toredad unistused, küll te neist ka veel kuulete. Unistame aga edasi ja püüdleme kõige selle poole, mis meid õnnelikuks teeb!
 
+<br/>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/azlIFimEULE" frameborder="0" allowfullscreen></iframe>
 
