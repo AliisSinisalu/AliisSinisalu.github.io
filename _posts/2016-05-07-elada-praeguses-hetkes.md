@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: In today's rush we all think too much - seek too much - want too much - and forget about the joy of just being. Eckhart Toll
-published: false
+published: true
 ---
 > "In today's rush we all think too much - seek too much - want too much - and forget about the joy of just being." Eckhart Toll
 
@@ -20,5 +20,9 @@ Minu point on, et võiks olla rohkem kulgemist, mitte igapäevast ringi rapsimis
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDCzmc4IVMQ?list=PLD0B59BEB741B9147" frameborder="0" allowfullscreen></iframe>
 <br/>
-By the way, me ostsime matka jaoks siukse ägeda retro vidina - rootsi sõjaväe katelok. 
+![rapla]({{site.baseurl}}/images/rapla.jpg)
+<br/>
+By the way, me ostsime matka jaoks siukse ägeda retro vidina - rootsi sõjaväe kateloki:
+<br/>
+![katelok]({{site.baseurl}}/images/katelok.jpg)
 
