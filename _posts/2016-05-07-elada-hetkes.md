@@ -20,6 +20,10 @@ Et miks siuke pealkiri ja tsitaat? Mulle on jäänud mulje, et aeg ei oma enam v
 
 Minu point on, et võiks olla rohkem kulgemist, mitte igapäevast ringi rapsimist. Näiteks, tahaks vahel aasal lihtsalt istuda ja nurmenukku nuusutada - nuusutada nii, et kuklas ei oleks mõtteid a la sellest, et 13 minuti pärast pean sinna või tänna minema, mees vaja toita, tööks vaja valmistuda ja pesu vaja pesta jne. Ja tahaks üldse, et ei peaks koguaeg mõtlema, et mida vaja teha või mida võiks teha. Tahaks osata lihtsalt hetkes olla. Egas ma ise ka, siuke veits imelik, kui palju on teha, siis ei taha teha ja kui vähe on teha, siis nagu koguaeg peaks midagi tegema. Aga ma tahaks olla ükskord see inimene, kes saab ja oskab olevikku nautida ja mitte ringi rapsida. Alateadvuses kripeldab tunne, nagu peaks ennast pidevalt kehtestama ja kellelegi või millelegi miskit tõestama. Me elame ainult iseendale, mitte teistele. Lihtsalt viisaks on teistega arvestada ;)
 
+Väga emotsionaalne kõne, aga ta jutus on iva ;) :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ja-n5qUNRi8" frameborder="0" allowfullscreen></iframe>
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDCzmc4IVMQ?list=PLD0B59BEB741B9147" frameborder="0" allowfullscreen></iframe>
 <br/>
 ![rapla]({{site.baseurl}}/images/rapla.jpg)
