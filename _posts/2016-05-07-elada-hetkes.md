@@ -1,5 +1,5 @@
 ---
-title: Elada praeguses hetkes...
+title: Elada hetkes...
 header:
   teaser: IMG_5492.jpg
   overlay_image: IMG_5492.jpg
