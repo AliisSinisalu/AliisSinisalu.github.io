@@ -1,13 +1,13 @@
 ---
 title: Elada praeguses hetkes...
 header:
-  teaser: IMG_7022.jpg
-  overlay_image: IMG_7022.jpg
-  image: IMG_7022.jpg
+  teaser: IMG_5492.jpg
+  overlay_image: IMG_5492.jpg
+  image: IMG_5492.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: In today's rush we all think too much - seek too much - want too much - and forget about the joy of just being. Eckhart Toll
-published: false
+published: true
 ---
 > "In today's rush we all think too much - seek too much - want too much - and forget about the joy of just being." Eckhart Toll
 
