@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: "Raamatust Vagabonding:An Uncommon Guide to the Art of Long Term World Travel by Rolf Potts, leidsin üsna palju (vähemalt minu jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada."
-published: true
+published: false
 ---
  Raamatust "Vagabonding:An Uncommon Guide to the Art of Long Term World Travel" by Rolf Potts, leidsin üsna palju (vähemalt minu jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada. Praegu on küll mu elu läinud sedamoodi, et vaevalt ma kuhugi üksi hakkan seiklema minema - no seljakotiränduriks ma mõtlen (Pruutus ju seljakotti ei mahu), aga see on miski, mida oleksin tahtnud kogeda või never know... vb üke hetk ka kogen.
 
