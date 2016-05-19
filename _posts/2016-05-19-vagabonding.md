@@ -27,7 +27,7 @@ Mõned tsiteeringud siis:
 
 "Thus, if some people consider your travels foolish, don't waste your time trying to convince them otherwise."
 
-"vagabonding is not just a process of discovering the world but a way of seeing - an attitude that prepares you to find the things you weren't looking for."
+"Vagabonding is not just a process of discovering the world but a way of seeing - an attitude that prepares you to find the things you weren't looking for."
 
 "You may be excited, bored, confused, desperate and amazed all in the same happy day."
 
