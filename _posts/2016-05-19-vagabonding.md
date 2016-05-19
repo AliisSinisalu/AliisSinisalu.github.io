@@ -13,9 +13,9 @@ published: true
 
 Mõned tsiteeringud siis:
 
-"The more we associate experiences with cash value, the more we think that money is what we need to live. And the more we associate money with life, the more we convince ourselves that were too poor to buy our freedom."
+"The more we associate experiences with cash value, the more we think that money is what we need to live. And the more we associate money with life, the more we convince ourselves that we're too poor to buy our freedom."
 
-"Long-term travel isnt about being a college student; it's about being a student of a daily life. Long-term travel isn't an act of rebellion against society; it's an act of common sense within society. Long-term travel doesn't require a massive bundle of cash; it requires only that we walk through the world in a more deliberate way."
+"Long-term travel isn't about being a college student; it's about being a student of a daily life. Long-term travel isn't an act of rebellion against society; it's an act of common sense within society. Long-term travel doesn't require a massive bundle of cash; it requires only that we walk through the world in a more deliberate way."
 
 "And, as much as anything, vagabonding is about time - our only real commodity - and how we choose to use it."
 
