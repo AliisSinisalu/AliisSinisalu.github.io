@@ -6,10 +6,10 @@ header:
   image: meri.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
-excerpt: "Raamatust Vagabonding:An Uncommon Guide to the Art of Long Term World Travel by Rolf Potts, leidsin üsna palju (vähemalt minu jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada."
+excerpt: "Raamatust Vagabonding:An Uncommon Guide to the Art of Long Term World Travel by Rolf Potts, leidsin üsna palju (vähemalt enda jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada."
 published: true
 ---
- Raamatust "Vagabonding:An Uncommon Guide to the Art of Long Term World Travel" by Rolf Potts, leidsin üsna palju (vähemalt minu jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada. Praegu on küll mu elu läinud sedamoodi, et vaevalt ma kuhugi üksi hakkan seiklema minema - no seljakotiränduriks ma mõtlen (Pruutus ju seljakotti ei mahu), aga see on miski, mida oleksin tahtnud kogeda või never know... vb üke hetk ka kogen.
+ Raamatust "Vagabonding:An Uncommon Guide to the Art of Long Term World Travel" by Rolf Potts, leidsin üsna palju (vähemalt enda jaoks) inspireerivaid mõtteid. Tahaksin neid ka teiega jagada. Praegu on küll mu elu läinud sedamoodi, et vaevalt ma kuhugi üksi hakkan seiklema minema - no seljakotiränduriks ma mõtlen (Pruutus ju seljakotti ei mahu), aga see on miski, mida oleksin tahtnud kogeda või never know... vb üke hetk ka kogen.
 
 Mõned tsiteeringud siis:
 
@@ -50,7 +50,7 @@ Joseph Campbell
 
 * * *
 
-Vot siuksed lood siis. Tegelikult mul on endal veits häbi ka, kui palju mõtetut pahna on mul 6 aasta jooksul kogunenud. Hetkel tunnengi, elu kokku pakkides, et see on nagu puhastumine. Aga eks aja jooksul väärtused muutuvadki ja minulgi on veel pikk ma minna jõudmaks nende väärtusteni, mida olen hakanud hindama praegusel eluperioodil.
+Vot siuksed lood siis. Tegelikult mul on endal veits häbi ka, kui palju mõtetut pahna on mul 6 aasta jooksul kogunenud. Hetkel tunnengi, elu kokku pakkides, et see on nagu puhastumine. Aga eks aja jooksul väärtused muutuvadki ja minulgi on veel pikk maa minna, jõudmaks nende väärtusteni, mida olen hakanud hindama praegusel eluperioodil.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8masNA6oh_M" frameborder="0" allowfullscreen></iframe>
 <br/>
