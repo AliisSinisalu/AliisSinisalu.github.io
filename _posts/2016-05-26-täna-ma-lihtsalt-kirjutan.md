@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: Kirjutan sellest, millest kirjutada on ;)  
-published: false
+published: true
 ---
 Nii palju on ringi sibimist sabimist. Ilmselgelt kolimisest on mul juba täielikult siiber. Tahaks, et see kammajaa ükskord läbi juba saaks. Mu jaoks on see jube suur teema, see kolimine. Mõni vb on viimase 6 aasta jooksul korduvalt kolinud, mina aga mitte. Oli mugav, sain 6 aastat kenasti kappe asjadega täis stäkkida :) Möödunud nv-el sai isegi kaubik renditud. Indrekul oli siuke väike marsruut: Tallinn-Rapla-Are-Saaremaa-Tallinn. Me oleme oma stuffi ikka no igale poole laiali laotanud. Igaüks saab miskit :P Kui kunagi peaks neid kokku korjama jälle hakkama...oh juudas. Ma pigem elan kuuse all.
 
