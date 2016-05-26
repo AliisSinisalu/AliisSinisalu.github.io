@@ -6,7 +6,7 @@ header:
   image: loojang.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
-published: false
+published: true
 ---
 Nii palju on ringi sibimist sabimist. Ilmselgelt kolimisest on mul juba täielikult siiber. Tahaks, et see kammajaa ükskord läbi juba saaks. Mu jaoks on see jube suur teema, see kolimine. Mõni vb on viimase 6 aasta jooksul korduvalt kolinud, mina aga mitte. Oli mugav, sain 6 aastat kenasti kappe asjadega täis stäkkida :) Möödunud nv-el sai isegi kaubik renditud. Indrekul oli siuke väike marsruut: Tallinn-Rapla-Are-Saaremaa-Tallinn. Me oleme oma stuffi ikka no igale poole laiali laotanud. Igaüks saab miskit :P Kui kunagi peaks neid kokku korjama jälle hakkama...oh juudas. Ma pigem elan kuuse all.
 
@@ -19,6 +19,12 @@ Eile meil Indrekuga oli naa tähtis päev ka. Sõime kõhu täiega täis ja jõi
 Vahepeal sai ka fotograafia logo tellimus esitatud. Üsna varsti ehk saan ka sellega kekutada. See on see teema, et vahet pole mis kräppe pilte sa teed, uhke watermark teeb pildi alati asjalikuks :D Haha, jamh. Tegelikult on ju kunagi varsti plaan ikka 100% pildistamisele keskenduda. Ehk siis step by step pean selle teemaga tegelema. Praegu ikka olen ka püüdnud stabiilselt klõpsida, aga seda te ju teate - "risustan" ju teie fesari timeline'i nendega ;)
 
 Aga tegelikult on äge. See kaua oodatud kõige vingem suvi jõuab aina lähemale. Whoop whoop! 
+
+Tegin täne kärmelt siukse toreda pildi tsitaadiga. Deep nagu ikka :D Aga miks mitte, pildi materjali ju jagub.
+<br/>
+![tsitaat]({{site.baseurl}}/images/do beautiful things.jpg)
+<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDxJlW6cxRk" frameborder="0" allowfullscreen></iframe>
 
 
 
