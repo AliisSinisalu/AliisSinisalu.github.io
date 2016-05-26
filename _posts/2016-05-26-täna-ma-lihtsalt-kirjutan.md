@@ -19,7 +19,7 @@ Eile meil Indrekuga oli naa tähtis päev ka. Sõime kõhud täiega täis ja jõ
 
 Vahepeal sai ka fotograafia logo tellimus esitatud. Üsna varsti ehk saan ka sellega kekutada. See on see teema, et vahet pole mis kräppe pilte sa teed, uhke watermark teeb pildi alati asjalikuks :D Haha, jamh. Tegelikult on ju kunagi varsti plaan ikka 100% pildistamisele keskenduda. Ehk siis step by step pean selle teemaga tegelema. Praegu ikka olen ka püüdnud stabiilselt klõpsida, aga seda te ju teate nii ehk naa- "risustan" ju teie fesari timeline'i nendega ;)
 
-Tegin täne kärmelt siukse toreda pildi tsitaadiga. Deep nagu ikka :D Aga targad sõnad. Ja miks mitte, pildimaterjali ju jagub.
+Tegin täna kärmelt siukse toreda pildi tsitaadiga. Deep nagu ikka :D Aga targad sõnad. Ja miks mitte, pildimaterjali ju jagub.
 <br/>
 ![tsitaat]({{site.baseurl}}/images/do beautiful things.jpg)
 <br/>
