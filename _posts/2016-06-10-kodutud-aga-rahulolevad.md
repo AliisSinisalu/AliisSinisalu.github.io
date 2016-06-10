@@ -11,8 +11,6 @@ published: true
 gallery:
   - url: start.jpg
     image_path: start.jpg
-  - url: walk.jpg
-    image_path: walk.jpg
   - url: keep.jpg
     image_path: keep.jpg
   - url: chill.jpg
@@ -23,6 +21,8 @@ gallery:
     image_path: cap.jpg
   - url: sokid.jpg
     image_path: sokid.jpg
+  - url: walk.jpg
+    image_path: walk.jpg
 ---
 Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)
 
