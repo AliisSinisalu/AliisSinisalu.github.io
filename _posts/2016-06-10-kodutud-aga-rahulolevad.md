@@ -34,12 +34,4 @@ Nädala highlight on kindlasti meie proovimatk, kust me täna ka tagasi jõudsim
 
 Homme on veel sajandi sündmus vaja ära pidada e. vanaema 90 aasta juubeli pidustused ning pühapäeval ongi minek. Kott on meil enamsvähems pakitud, niiet sellega suurt möllu enam pole. Vaid vaim valmis panna, muud enam teha suurt pole. Ja kui kunagi sealt tagasi oleme, õnneks seda probleemi ei tohiks olla, et mul blogisse midagi kirjutada pole. Niiet, jällekuulmiseni siis!
 
-![start]({{site.baseurl}}/images/start.jpg)
-![walk]({{site.baseurl}}/images/walk.jpg)
-![keep]({{site.baseurl}}/images/keep.jpg)
-![chill]({{site.baseurl}}/images/chill.jpg)
-![lunch]({{site.baseurl}}/images/lunch.jpg)
-![cap]({{site.baseurl}}/images/cap.jpg)
-![sokid]({{site.baseurl}}/images/sokid.jpg)
-
-{% include gallery caption="Galerii" class="full" %}
+{% include gallery id="gallery" class="full" caption="Galerii" %}
