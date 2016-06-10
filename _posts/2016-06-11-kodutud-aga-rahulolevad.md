@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt: Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)  
-published: true
+published: false
 gallery:
   - url: start.jpg
     image_path: start.jpg
