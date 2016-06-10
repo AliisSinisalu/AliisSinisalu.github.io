@@ -10,6 +10,19 @@ excerpt: Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega
 published: true
 gallery:
   - url: start.jpg
+    image_path: start.jpg
+  - url: walk.jpg
+    image_path: walk.jpg
+  - url: keep.jpg
+    image_path: keep.jpg
+  - url: chill.jpg
+    image_path: chill.jpg
+  - url: lunch.jpg
+    image_path: lunch.jpg
+  - url: cap.jpg
+    image_path: cap.jpg
+  - url: sokid.jpg
+    image_path: sokid.jpg
 ---
 Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)
 
