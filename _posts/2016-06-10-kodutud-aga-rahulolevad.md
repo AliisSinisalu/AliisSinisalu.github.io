@@ -8,6 +8,9 @@ header:
   cta_label: "Loe"
 excerpt: Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)  
 published: true
+gallery:
+  - url: start.jpg
+    image_path: start.jpg
 ---
 Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)
 
@@ -26,3 +29,5 @@ Homme on veel sajandi sündmus vaja ära pidada e. vanaema 90 aasta juubeli pidu
 ![lunch]({{site.baseurl}}/images/lunch.jpg)
 ![cap]({{site.baseurl}}/images/cap.jpg)
 ![sokid]({{site.baseurl}}/images/sokid.jpg)
+
+{% include gallery caption="Galerii" %}
