@@ -24,7 +24,7 @@ gallery:
   - url: walk.jpg
     image_path: walk.jpg
 ---
-1. päev
+## 1. päev
 
 "Okei...muide...me päriselt TEEMEGI SEDA! Vähemalt 9 km on tänaseks selja taga. Kahjuks või õnneks, väikeste viperuste tõttu ei jõudnud täna pikemat distantsi ette võtta. Järgmine telkimisala oleks veel 17 km kaugusel. Panime praegu oma laagri VÕSU RMK alasse püsti.
 
@@ -37,7 +37,7 @@ Egas siin muud enam ole kui natuke raamatut lugeda, vb ka väike kaardimäng ehk
 Nüüd tagantjärele mõeldes meie esimesele päevale - pfff, see oli ju köömes :D Kuigi ka juba siis viimastel kilomeetritel oli suts ekstreemsem kitsas metsatee, jalad loivasid vilta kuna tee oli kaldus ja villid andsid juba tunda. Matka jooksul veetsime öid erinevates huvitavates kohtades, ja tegelikult Võsu oma oli üks igavamatest. Aga tore jõgi sulises kõrval ja palju "toredaid" kihulasi oli seltsiks :)
 
 
-2. päev
+## 2. päev
 
 "Nõmmeveski. Siin me nüüd oleme. Juba 2 päev praktiliselt selja taga, nagu naksti (tegelt mitte nii naksti). Hommikul Võsul magasime nii kaua, kuniks iluund jätkus. Kella 9-ni seda ka jätkus. Sõime putru, panime laagri kokku ning hakkasime vaikselt astuma. Plaan oli veel poest ka läbi minna, kuna rajal neid just iga nurga peal ei ole. Pood oli u 1 kiltsa kaugusel Võsu asulas. Seega aja kokku hoiu mõttes silkas Indrek üksi poodi, tõi natuke söögimanti juurde. Mina tiksusin üksi ja valvasin kotte. Alles 12 paiku saime päriselt liikuma.
 
