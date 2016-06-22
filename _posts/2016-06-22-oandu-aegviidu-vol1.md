@@ -6,7 +6,7 @@ header:
   image: telgist.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
-excerpt: Heyoo. Veel enne kui me metsa ära põgeneme, proovin üht-teist teiega jagada. Vahepeal jäime me kodutuks ning nüüdseks oleme juba nädal aega Pärnu kandis konnutanud. Chilll. Koguaeg miskit toimub ja raske on olnud blogi kirjutamiseks aega leida. Pole jamh see värk nii kerge midagist :)  
+excerpt:  
 published: false
 gallery:
   - url: start.jpg
@@ -25,6 +25,7 @@ gallery:
     image_path: walk.jpg
 ---
 1. päev
+
 "Okei...muide...me päriselt TEEMEGI SEDA! Vähemalt 9 km on tänaseks selja taga. Kahjuks või õnneks, väikeste viperuste tõttu ei jõudnud täna pikemat distantsi ette võtta. Järgmine telkimisala oleks veel 17 km kaugusel. Panime praegu oma laagri VÕSU RMK alasse püsti.
 
 Mul väike varvas pullib - proovimatka katki tehtud vill veits valutab. Paar leebemat roppsõna sai ka rajal juba öeldud, aga see õnneks mööduv nähtus, siiani :) 
@@ -37,6 +38,7 @@ Nüüd tagantjärele mõeldes meie esimesele päevale - pfff, see oli ju kööme
 
 
 2. päev
+
 "Nõmmeveski. Siin me nüüd oleme. Juba 2 päev praktiliselt selja taga, nagu naksti (tegelt mitte nii naksti). Hommikul Võsul magasime nii kaua, kuniks iluund jätkus. Kella 9-ni seda ka jätkus. Sõime putru, panime laagri kokku ning hakkasime vaikselt astuma. Plaan oli veel poest ka läbi minna, kuna rajal neid just iga nurga peal ei ole. Pood oli u 1 kiltsa kaugusel Võsu asulas. Seega aja kokku hoiu mõttes silkas Indrek üksi poodi, tõi natuke söögimanti juurde. Mina tiksusin üksi ja valvasin kotte. Alles 12 paiku saime päriselt liikuma.
 
 Täna jätsime 17 vinget kilomeetrit selja taha. Tglt on raske neid emotsioone sõnadesse panna, mis rajal esinevad. Pead ise järgi proovima :) Nende 17 km sisse mahtusid avarad krõbisevad männikud, sumedad ja veits creepyd kuusikud, rohelised sillerdavad karjamaad ning ürgsed jõeorud. Väga mitmekesine igatahes. Tõesti hämmastav on see, kui üks hetk sammud rõõmsalt päikselises männikus ja teine sekund juba hops, avastad end uitamas müstilises kuusikus. Väga järsud, kuid see-eest meeli ülendavad üleminekud. 
