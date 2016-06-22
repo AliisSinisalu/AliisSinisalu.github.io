@@ -41,4 +41,8 @@ Nüüd tagantjärele mõeldes meie esimesele päevale - pfff, see oli ju kööme
 
 Täna jätsime 17 vinget kilomeetrit selja taha. Tglt on raske neid emotsioone sõnadesse panna, mis rajal esinevad. Pead ise järgi proovima :) Nende 17 km sisse mahtusid avarad krõbisevad männikud, sumedad ja veits creepyd kuusikud, rohelised sillerdavad karjamaad ning ürgsed jõeorud. Väga mitmekesine igatahes. Tõesti hämmastav on see, kui üks hetk sammud rõõmsalt päikselises männikus ja teine sekund juba hops, avastad end uitamas müstilises kuusikus. Väga järsud, kuid see-eest meeli ülendavad üleminekud. 
 
-Ma ei hakka valetama, et need
+Ma ei hakka valetama, et need tänased kilomeetrid olid meeletult kerged, ei olnud. Vasak jalg ei taha üldse koostööd teha, on ville täis ja ja igal sammul need ka tunda annavad. Seljakott ei ole ka just ainult paar kilo, et sellega lennata ei õnnestu, ausalt :) Eks sellised matkad olegi - ilu ja valu käsikäes. 
+
+Igatahes Nõmmeveski telkimisalasse me täna jõudsime ja õhtu on siin olnud megailus. Just saime nautida telgist jõe kohal loojuvat päikest. Linnud laulavad ja elu on ilus. Ilmaga on siiani ka tõesti vedanud. Möödunud ööl oli mingi hetk ainult 6 kraadi. Vaatab, mis tänane öö toob :) Ciao."
+
+
