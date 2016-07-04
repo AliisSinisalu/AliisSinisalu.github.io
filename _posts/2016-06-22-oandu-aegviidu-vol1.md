@@ -1,28 +1,40 @@
 ---
 title: Oandu - Aegviidu, vol 1
 header:
-  teaser: telgist.jpg
-  overlay_image: telgist.jpg
-  image: telgist.jpg
+  teaser: kuhuminna.jpg
+  overlay_image: kuhuminna.jpg
+  image: kuhuminna.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
-excerpt:  
+excerpt:  Meie kahe esimese päeva seiklused ja meenutused.
 published: false
 gallery:
-  - url: start.jpg
-    image_path: start.jpg
-  - url: keep.jpg
-    image_path: keep.jpg
-  - url: chill.jpg
-    image_path: chill.jpg
-  - url: lunch.jpg
-    image_path: lunch.jpg
-  - url: cap.jpg
-    image_path: cap.jpg
-  - url: sokid.jpg
-    image_path: sokid.jpg
-  - url: walk.jpg
-    image_path: walk.jpg
+  - url: IMG_9394.jpg
+    image_path: IMG_9394.jpg
+  - url: IMG_9398.jpg
+    image_path: IMG_9398.jpg
+  - url: IMG_9401.jpg
+    image_path: IMG_9401.jpg
+  - url: IMG_9408.jpg
+    image_path: IMG_9408.jpg
+  - url: IMG_9411.jpg
+    image_path: IMG_9411.jpg
+  - url: IMG_9419.jpg
+    image_path: IMG_9419.jpg
+  - url: IMG_9423.jpg
+    image_path: IMG_9423.jpg
+  - url: IMG_9426.jpg
+    image_path: IMG_9426.jpg
+  - url: IMG_9431.jpg
+    image_path: IMG_9431.jpg
+  - url: IMG_9435.jpg
+    image_path: IMG_9435.jpg
+  - url: IMG_9439.jpg
+    image_path: IMG_9439.jpg
+  - url: IMG_9445.jpg
+    image_path: IMG_9445.jpg
+  - url: IMG_9448.jpg
+    image_path: IMG_9448.jpg
 ---
 ## 1. päev
 
