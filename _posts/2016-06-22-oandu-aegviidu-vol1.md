@@ -47,4 +47,6 @@ Ma ei hakka valetama, et need tänased kilomeetrid olid meeletult kerged, ei oln
 
 Igatahes Nõmmeveski telkimisalasse me täna jõudsime ja õhtu on siin olnud megailus. Just saime nautida telgist jõe kohal loojuvat päikest. Linnud laulavad ja elu on ilus. Ilmaga on siiani ka tõesti vedanud. Möödunud ööl oli mingi hetk ainult 6 kraadi. Vaatab, mis tänane öö toob :) Ciao."
 
+Jah, ütleme nii, et Nõmmeveski oli epic. Kuigi viimased kilomeetrid tundusid kui terve igavik, aga see-eest ülima vaatega. Kõrged vaated jõeorule ikka sillerdavad veel silme ees. Päike kumas puude vahelt ja õhk oli männilõhna täis. Kui telklasse jõudsime, oeh, see tunne oli jälle nii tore nii tore. Viskasin kohe pikuti lebosse pingi peale ja lihtsalt olin. Lihtalt olemise käigus rikkusin muidugi oma ülicooli roosa pusa ära, mingi löga oli seal pingi peal. Aga mis seal ikka, ma väga ei jõudnud isegi nukker olla :)
+
 
