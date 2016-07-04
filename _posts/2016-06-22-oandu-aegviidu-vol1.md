@@ -19,22 +19,22 @@ gallery:
     image_path: IMG_9408.jpg
   - url: IMG_9411.jpg
     image_path: IMG_9411.jpg
-  - url: IMG_9419.jpg
-    image_path: IMG_9419.jpg
   - url: IMG_9423.jpg
     image_path: IMG_9423.jpg
-  - url: IMG_9426.jpg
-    image_path: IMG_9426.jpg
-  - url: IMG_9431.jpg
-    image_path: IMG_9431.jpg
   - url: IMG_9435.jpg
     image_path: IMG_9435.jpg
   - url: IMG_9439.jpg
     image_path: IMG_9439.jpg
-  - url: IMG_9445.jpg
-    image_path: IMG_9445.jpg
   - url: IMG_9448.jpg
     image_path: IMG_9448.jpg
+  - url: IMG_9419.jpg
+    image_path: IMG_9419.jpg
+  - url: IMG_9426.jpg
+    image_path: IMG_9426.jpg
+  - url: IMG_9431.jpg
+    image_path: IMG_9431.jpg
+  - url: IMG_9445.jpg
+    image_path: IMG_9445.jpg
 ---
 ## 1. päev
 
