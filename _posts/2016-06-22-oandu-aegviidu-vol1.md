@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt:  Meie kahe esimese päeva seiklused ja meenutused.
-published: false
+published: true
 gallery:
   - url: IMG_9394.jpg
     image_path: IMG_9394.jpg
@@ -51,7 +51,7 @@ Nüüd tagantjärele mõeldes meie esimesele päevale - pfff, see oli ju kööme
 
 ## 2. päev
 
-"Nõmmeveski. Siin me nüüd oleme. Juba 2 päev praktiliselt selja taga, nagu naksti (tegelt mitte nii naksti). Hommikul Võsul magasime nii kaua, kuniks iluund jätkus. Kella 9-ni seda ka jätkus. Sõime putru, panime laagri kokku ning hakkasime vaikselt astuma. Plaan oli veel poest ka läbi minna, kuna rajal neid just iga nurga peal ei ole. Pood oli u 1 kiltsa kaugusel Võsu asulas. Seega aja kokku hoiu mõttes silkas Indrek üksi poodi, tõi natuke söögimanti juurde. Mina tiksusin üksi ja valvasin kotte. Alles 12 paiku saime päriselt liikuma.
+"Nõmmeveski. Siin me nüüd oleme. Juba 2. päev praktiliselt selja taga, nagu naksti (tegelt mitte nii naksti). Hommikul Võsul magasime nii kaua, kuniks iluund jätkus. Kella 9-ni seda ka jätkus. Sõime putru, panime laagri kokku ning hakkasime vaikselt astuma. Plaan oli veel poest ka läbi minna, kuna rajal neid just iga nurga peal ei ole. Pood oli u 1 kiltsa kaugusel Võsu asulas. Seega aja kokkuhoiu mõttes silkas Indrek üksi poodi, tõi natuke söögimanti juurde. Mina tiksusin üksi ja valvasin kotte. Alles 12 paiku saime päriselt liikuma.
 
 Täna jätsime 17 vinget kilomeetrit selja taha. Tglt on raske neid emotsioone sõnadesse panna, mis rajal esinevad. Pead ise järgi proovima :) Nende 17 km sisse mahtusid avarad krõbisevad männikud, sumedad ja veits creepyd kuusikud, rohelised sillerdavad karjamaad ning ürgsed jõeorud. Väga mitmekesine igatahes. Tõesti hämmastav on see, kui üks hetk sammud rõõmsalt päikselises männikus ja teine sekund juba hops, avastad end uitamas müstilises kuusikus. Väga järsud, kuid see-eest meeli ülendavad üleminekud. 
 
