@@ -47,7 +47,7 @@ Aga tänane päev oli ilus - veel viimased nautimused Lahemaa metsikus looduses.
 
 ## 4. päev
 
-Whoopydoo, tunne on epic. Võimsad rajad on selja taha jäetud. Ma olen juba praegu ennast igati ületanud. Päääris vinged (loe:rasked) rajad on siiani olnud, uskumatu Eestimaa. Seda võimsam tunne on olnud, iga päev sihtpunkti jõudes. Jalad on pakud all ja villid möllavad jätkuvalt. Plaastrid lähevad nagu soojad saiad. Kõndimisega on nii, et mega raske on alustada - nii valus on, et pisar tahab silma tungida. Aga mõne aja pärast harjub selle valuga ära, kui nii saab öelda.
+"Whoopydoo, tunne on epic. Võimsad rajad on selja taha jäetud. Ma olen juba praegu ennast igati ületanud. Päääris vinged (loe:rasked) rajad on siiani olnud, uskumatu Eestimaa. Seda võimsam tunne on olnud, iga päev sihtpunkti jõudes. Jalad on pakud all ja villid möllavad jätkuvalt. Plaastrid lähevad nagu soojad saiad. Kõndimisega on nii, et mega raske on alustada - nii valus on, et pisar tahab silma tungida. Aga mõne aja pärast harjub selle valuga ära, kui nii saab öelda.
 
 Tänane viimane suts - u 3.8 kiltsa Paukjärve juurest oli siiani vist kõige raskem lõik. Tahaks loota, et edasipidi läheb pisut lihtsamaks. Distantsid lähevad küll vist pikemaks, aga loodetavasti siis käidavamaks. Indrek siin arvab, et keerukamad osad peaks nüüd läbi olema, Aga niiiiiiiii palju on veel ju ees.
 
