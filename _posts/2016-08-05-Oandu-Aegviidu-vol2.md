@@ -35,3 +35,22 @@ gallery:
     image_path: IMG_9557.jpg
 ---
 ## 3. päev
+
+"Nonii... uus päev jälle peaaegu, et selja taga. Esimene pool päevast oli jälle raju, aga õnneks ülejäänud pool päevast on olnud ülichill. Distantsidega õnneks hullu pole veel saanud panna. Praegused vahemaad telklate alade vahel on totrad. Täna tegime 14 km. Vaatad küll, et pfff, mis see ka ära ei ole. No on ikka küll! Ega need Lahemaa kurvikad ja mägised metsad just lihtsamate killast pole.
+
+Maandusime täna Kalmeojas. Siit kohe kohe hakkab Viru raba. Juba igatsemegi meie taaskohtumist. Tänane viimane lõpp tundus jälle nagu terve igavik. See on kõikide distantside puhul nii olnud, et viimased km-id lihtsalt venivaaaad. Ma ikka täna maadlsesin iseendaga päris korralikult. Viis villi minu jalgadel mängivad ikka konkreetselt mäkra. Ära ei taha ka paraneda, ikka hjullemaks, ikka hjullemaks. No ja täna oli lagi pähe päike ka, ei ühtegi kosutavat pilve. Õnneks temperatuur polnud kõige karmim. 
+
+Kuna me täna jõudsime uude kohta mingi 16 ajal, siis oli aega chillilt võtta - maha istuda ja uus orienteeruv matkaplaan paika panna - esialgne oli liiga naiivselt planeeritud. Reaalsus on karmim kui vaimusilmas ettekujutatu :) Egas muud polegi hullu, kui et mingi 3. juuli paiku peaks/võiks kodukanti jõuda. No kena sissejuhatus on matkale tehtud, nüüd läheb suuremaks kõmpimiseks. Jalad võiksid ka pisut armu anda.
+
+Aga tänane päev oli ilus - veel viimased nautimused Lahemaa metsikus looduses. Niiskest värskest õhust pakatavd jõeorud, paksud kummituslikud pankmetsad - mnjaaa, võimas! Mõni hetk kõndisime puulatvadega samal kõrgusel, krõbedad ja kuumad männimetsad krõbisesid jalge all ja suviselt kolla-rohetavad karjamaad pakkusid vaheldust. Homme jätamegi Lahemaaga hüvasti ja sukeldume Põhja-Kõrvemaa loodusesse. Homme hommikul peaks veel väikse "duši" Viru raba laugastes tegema, et saab vahva olema :)"
+
+
+## 4. päev
+
+
+
+
+
+
+
+{% include gallery id="gallery" class="third" %}
