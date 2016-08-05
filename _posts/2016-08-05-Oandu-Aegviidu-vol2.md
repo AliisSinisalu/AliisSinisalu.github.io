@@ -47,7 +47,16 @@ Aga tänane päev oli ilus - veel viimased nautimused Lahemaa metsikus looduses.
 
 ## 4. päev
 
+Whoopydoo, tunne on epic. Võimsad rajad on selja taha jäetud. Ma olen juba praegu ennast igati ületanud. Päääris vinged (loe:rasked) rajad on siiani olnud, uskumatu Eestimaa. Seda võimsam tunne on olnud, iga päev sihtpunkti jõudes. Jalad on pakud all ja villid möllavad jätkuvalt. Plaastrid lähevad nagu soojad saiad. Kõndimisega on nii, et mega raske on alustada - nii valus on, et pisar tahab silma tungida. Aga mõne aja pärast harjub selle valuga ära, kui nii saab öelda.
 
+Tänane viimane suts - u 3.8 kiltsa Paukjärve juurest oli siiani vist kõige raskem lõik. Tahaks loota, et edasipidi läheb pisut lihtsamaks. Distantsid lähevad küll vist pikemaks, aga loodetavasti siis käidavamaks. Indrek siin arvab, et keerukamad osad peaks nüüd läbi olema, Aga niiiiiiiii palju on veel ju ees.
+
+Tänane hommik oli jummala torekas. Värskendasime ennast Viru raba laukas. Vägagi karastav, peaks mainima :) Aga päike sillerdas taevas ja tunne oli hea. Kohe palju mõnusam oli peale pisikest suplust edasi liikuda. Bussitäis turiste rabas tsekkis ka silmanurgast, kuidas ma peale ujumist jalgu plaasterdasin. Oli vist omaette vaatamisväärsus.
+
+Oleme praegu Jussi telkimisalas. Ilm kisub ka kehvaks ja kõht on megatühi. Aga kohekohe peaks chef Indrek miskit lauale tooma - susstab seal juba tükk aega lõkke ääres. Toidu koha pealt on meil säästurežiim. Nälga ehk ei jää, aga priisata ka ei maksa. Homme lõpuks ehk jõuame suuremasse asulasse - Aegviitu. Seal nuumame ennast heast ja paremast täis (burksi tahaks) ja täiendame edasiseks varusid. Jesss!"
+
+
+Ja siinkohal kahjuks lõppesid minu kirjutised. Kuid mul on rääkida veel küll - meie viimases vihmasest ööst ja viimasest väga vihmasest ja hallist teekonnast Aegviitu.
 
 
 
