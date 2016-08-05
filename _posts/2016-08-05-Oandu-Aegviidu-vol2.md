@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](http://aliissinisalu.com)"
   cta_label: "Loe"
 excerpt:  Meie kolme viimase päeva seiklused ja meenutused.
-published: true
+published: false
 gallery:
   - url: IMG_9456.jpg
     image_path: IMG_9456.jpg
