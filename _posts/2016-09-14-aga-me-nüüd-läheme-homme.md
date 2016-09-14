@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com/)"
   cta_label: Loe
 excerpt: "Suvi on jälle salaja mööda läinud, kuid õnneks väljas sillerdab ülimõnus sügis. Veel viimane päev seda nautida. Mitte, et me edaspidi sügist enam nautida ei saaks, aga uued nautimused saavad olema juba kuskil mujal."
-published: false
+published: true
 ---
 Suvi on jälle salaja mööda läinud, kuid õnneks väljas sillerdab ülimõnus sügis. Veel viimane päev seda nautida. Mitte, et me edaspidi sügist enam nautida ei saaks, aga uued nautimused saavad olema juba kuskil mujal. Ma ikka ei väsi jauramast, et kui kiiresti ikka aeg lendab. Suvekuud läksid tõesti jälle mega kiirelt mööda. Aga eks asjatamisi oli ka omajagu ja muidugi mõnusalt palju molutamist oli :) 
 Kui alles mai kuus sai elu kokku pakitud, siis me tegime seda jälle. Ja seekord veel kompaktsemalt, ega meie nuntsik seat mingi dsiip ei ole juuh, peab ikka selekteerima manti. Kõike pahna kaasa ei saa võtta. Ja pole vajadustki. Mul on karvane tunne, et neid riidehilpe sai ikkagi liiga palju. Aga cmon, valikuvarianti peab ka ikka olema. Respekt Indrekule, kes suudab paremini toime tulla oma mandiga. Thank god, he's not a lady ;) Jah, asjad on koos, aga me ei ole neid veel autossu püüdnud mahutada. Pead ei saa anda, et need kõik sinna ära mahuvad. Täna õhtul on tõehetk. Paks Pruutus peab ennast igatahes kortsu tõmbama.
@@ -21,5 +21,5 @@ Mis ma muud oskan öelda veel, et ma luban rohkem blogima hakata ja pilte teiega
 Üks aeg jälle põllu peal möllates, palusin Indrekul Prutsi filmida kui ta saikot teeb vee sees. Just sellel päeval ei teinud ta seda, mida ta kõigil teistel päevadel tegi ehk siis seda ta ei teinud, mida jäädvustada tahtsin. Palusin ka nii lindistada, et mina peale ei jääks, aga nohhh jahh. Jäin. Mõtlesin, et ai kurja nüüd ei jaga ma seda videot kellegagi. Aga tglt ma just meelega jagan. Mis siin häbeneda, selline ma olen suurema osa suvest välja näinud - säärikutes, dressides, sassis juustega...põllu peale Prutsiga kalpsates :)
 Video lõpust:"See ei ole see, mida ma tahtsin, et sa filmiks." 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKZXQCQQJlI" frameborder="0" allowfullscreen></iframe>
 
