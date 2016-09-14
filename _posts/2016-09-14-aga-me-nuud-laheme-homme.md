@@ -25,7 +25,7 @@ Mõtlesin vahepeal, et teeks mingi listi suve kõrghetkedest. Aga ma ei tee. Ma 
 
 Mis ma muud oskan öelda veel, et ma luban rohkem blogima hakata ja pilte teiega sheerida, et pm tuua teile Budapest koju kätte. Vaatab mis saab sellest asjast :)
 
-Üks aeg jälle põllu peal möllates, palusin Indrekul Prutsi filmida kui ta saikot teeb vee sees. Just sellel päeval ei teinud ta seda, mida ta kõigil teistel päevadel tegi ehk siis seda ta ei teinud, mida jäädvustada tahtsin. Palusin ka nii lindistada, et mina peale ei jääks, aga nohhh jahh. Jäin. Mõtlesin, et ai kurja nüüd ei jaga ma seda videot kellegagi. Aga tglt ma just meelega jagan. Mis siin häbeneda, selline ma olen suurema osa suvest välja näinud - säärikutes, dressides, sassis juustega...põllu peale Prutsiga kalpsates :)
+Üks aeg jälle põllu peal möllates, palusin Indrekul Prutsi filmida kui ta saikot teeb vee sees. Just sellel päeval ei teinud ta seda, mida ta kõigil teistel päevadel tegi ehk siis seda ta ei teinud, mida jäädvustada tahtsin. Palusin ka nii lindistada, et mina peale ei jääks, aga nohhh jahh. Jäin. Mõtlesin, et ai kurja nüüd ei jaga ma seda videot kellegagi. Aga tglt ma just meelega jagan. Mis siin häbeneda, selline ma olen suurema osa suvest välja näinud - säärikutes, dressides, sassis juustega...põllu peal Prutsiga kalpsates :)
 Video lõpust:"See ei ole see, mida ma tahtsin, et sa filmiks." 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WKZXQCQQJlI" frameborder="0" allowfullscreen></iframe>
