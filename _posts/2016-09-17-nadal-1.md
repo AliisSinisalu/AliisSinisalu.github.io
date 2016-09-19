@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Ühes tükis kohal ja esimene chill nädalavahetus selja taga!"
-published: false
+published: true
 ---
 ## 17.09.2016
 
