@@ -1,13 +1,13 @@
 ---
 title:  Meie elu Budapestis 2. osa
 header: 
-  teaser: IMG_4257.jpg
-  overlay_image: IMG_4257.jpg
-  image: IMG_4257.jpg
+  teaser: IMG_4257-2.jpg
+  overlay_image: IMG_4257-2.jpg
+  image: IMG_4257-2.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Saime juba ühe suurema seikluse osaliseks. Paraku osutus selleks seikluseks miskit sellist, mida oleks iga hinna eest tahtnud vahele jätta!"
-published: false
+published: true
 ---
 Niisiis. Budapest on olnud igati tore ja vahva muidugi, aga on "väike" AGA... Ma siis räägin kõigepealt negatiivsed uudised ära ning see on seotud meie vinge selli Pruutusega. 
 
