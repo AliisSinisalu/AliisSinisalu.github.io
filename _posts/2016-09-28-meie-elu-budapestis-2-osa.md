@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Saime juba ühe suurema seikluse osaliseks. Paraku osutus selleks seikluseks miskit sellist, mida oleks iga hinna eest tahtnud vahele jätta!"
-published: false
+published: true
 ---
 Niisiis. Budapest on olnud igati tore ja vahva muidugi, aga on "väike" AGA... Ma siis räägin kõigepealt negatiivsed uudised ära ning see on seotud meie vinge selli Pruutusega. 
 
@@ -22,3 +22,11 @@ Siinkohal tahakski loomaomanikele südamele panna, et kaitske oma armsaid lemmik
 Ega tegelikult polegi muust väga kirjutada. Eelmine nädal jämmisime paar õhtut öises linnas ringi. Käisime ka Buda Kindlust tsekkamas. Võimas igatahes! Öine Budapest on ikka jah päris äge küll. Nägemist väärt! 
 
 Nüüd viimased 5 päeva oleme Pruutust ravinud. Endal on ka õnneks juba veits parem olla. Seda südamevalu oli ikka liiga palju, ei tahaks enam midagi sellist kogeda. Aga loodame siis, et Pruutus paraneb ja on juba üsna varsti tagasi omas mahlas - krutskit ja energiat täis väike kaak ;)
+
+![]({{site.baseurl}}/images/IMG_4147.jpg)
+
+![]({{site.baseurl}}/images/IMG_4230.jpg)
+
+![]({{site.baseurl}}/images/IMG_4248.jpg)
+
+![]({{site.baseurl}}/images/IMG_4257.jpg)
