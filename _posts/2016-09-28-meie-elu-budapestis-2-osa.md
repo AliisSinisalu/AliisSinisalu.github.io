@@ -23,6 +23,10 @@ Ega tegelikult polegi muust väga kirjutada. Eelmine nädal jämmisime paar õht
 
 Nüüd viimased 5 päeva oleme Pruutust ravinud. Endal on ka õnneks juba veits parem olla. Seda südamevalu oli ikka liiga palju, ei tahaks enam midagi sellist kogeda. Aga loodame siis, et Pruutus paraneb ja on juba üsna varsti tagasi omas mahlas - krutskit ja energiat täis väike kaak ;)
 
+Ilmad on megamõnusad. Kui vahepeal tundus, et ka siin hakkab vaikselt jahedamaks minema, siis nüüd hoopis läheb iga päevaga aina suvisemaks. Homseks lubab 26 kraadi sooja. Pole paha ;) Eile õhtul Margareti saare peal joostes oli ka väga naiss, naljakas oli lühikeste riietega kell kaheksa õhtul olla :) 
+
+Kui ma kunagi endale uue telefoni saan, siis saan teiega rohkem pilte ka ehk jagada. A la jooksuselfid ja muud random pildid, kui alati kaamera kaasas pole. Mu praegune telefon on otsi andmas, pm sureb iga kord ära kui ma midagi sellega teen. Ehk sama teema ka pilti tehes, kui telefoni kaamera sisse lülitan siis on vsjo ;) Elame näeme!
+
 ![]({{site.baseurl}}/images/IMG_4147.jpg)
 
 ![]({{site.baseurl}}/images/IMG_4230.jpg)
