@@ -9,6 +9,6 @@ header:
 excerpt: ""
 published: false
 ---
-Alustuseks kohe seda, et Pruts on back in biznez ehk teisisõnu, ta sai sellest vastikust haigusest võitu! Jeee.
+Alustuseks kohe seda, et Pruts on back in biznez ehk teisisõnu, ta sai sellest vastikust haigusest võitu! Shoobydoowaapp!
 
 Kui Pruutus juba enamsvähems tervem oli, saime ka lõpuks uuesti välja. Käisime reedel Gellert'i mäel seiklemas. Fotolehel ka sellest 
