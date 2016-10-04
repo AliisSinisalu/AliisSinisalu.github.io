@@ -6,6 +6,9 @@ header:
   image: IMG_4385.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
-excerpt: "Saime juba ühe suurema seikluse osaliseks. Paraku osutus selleks seikluseks miskit sellist, mida oleks iga hinna eest tahtnud vahele jätta!"
+excerpt: ""
 published: false
 ---
+Alustuseks kohe seda, et Pruts on back in biznez ehk teisisõnu, ta sai sellest vastikust haigusest võitu! Jeee.
+
+Kui Pruutus juba enamsvähems tervem oli, saime ka lõpuks uuesti välja. Käisime reedel Gellert'i mäel seiklemas. Fotolehel ka sellest 
