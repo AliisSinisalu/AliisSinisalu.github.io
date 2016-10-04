@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: ""
-published: true
+published: false
 ---
 Alustuseks kohe seda, et Pruts on back in biznez ehk teisisõnu, ta sai sellest vastikust haigusest võitu! Shoobydoowaapp!
 
