@@ -24,5 +24,29 @@ Ja ma ostsin endale ülinumpsiku väikese seljakoti. Mitte, et see pommuudis ole
 Aga nüüd ma võin vist suvejalanõud kotti ära peita ja sügisvarustuse välja kookida. 
 Mõnusat sügise jätku teile ka!
 
+![]({{site.baseurl}}/images/IMG_4264.jpg)
+
+![]({{site.baseurl}}/images/IMG_4270.jpg)
+
+![]({{site.baseurl}}/images/IMG_4271.jpg)
+
+![]({{site.baseurl}}/images/IMG_4272.jpg)
+
+![]({{site.baseurl}}/images/IMG_4294.jpg)
+
+![]({{site.baseurl}}/images/IMG_4298.jpg)
+
+![]({{site.baseurl}}/images/IMG_4300.jpg)
+
+![]({{site.baseurl}}/images/IMG_4324.jpg)
+
+![]({{site.baseurl}}/images/IMG_4337.jpg)
+
+![]({{site.baseurl}}/images/IMG_4368.jpg)
+
+![]({{site.baseurl}}/images/14425367_548342668706348_1080333792787526380_o.jpg)
+
+![]({{site.baseurl}}/images/IMG_4394.jpg)
+
 
 
