@@ -1,9 +1,9 @@
 ---
 title:  Meie elu Budapestis 4. osa
 header: 
-  teaser: IMG_4385.jpg
-  overlay_image: IMG_4385.jpg
-  image: IMG_4385.jpg
+  teaser: IMG_4414-2.jpg
+  overlay_image: IMG_4414-2.jpg
+  image: IMG_4414-2.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Vinge ja jabur - jah, see on Budapest. Väike üllatusmuna ka varuks ;)"
@@ -30,4 +30,47 @@ Aga kõik see trip on olnud väga mõnus vaheldus ja ju siis oli vaja korra eema
 Meile meeldib reisida, selles pole kahtlust! Aga ega tegelikult polegi nii mugav võõras keskkonnas elada. Eestis on ju kõik olemas - pere, sõbrad, töö... ja reisimisvõimalus ju ei kao ka kuhugile. Et praegu läks nii, vaatab mis tulevik meile veel varuks hoiab. 
 
 Nüüd on veel nädal aega Budapesti nautida, siis liigume paariks päevaks Viini, seejärel tripime Saksamaal ja ehk novembri alguseks oleme kodumaa pinnal tagasi. Halleluuujah :)
+
+![]({{site.baseurl}}/images/IMG_4404.jpg)
+
+![]({{site.baseurl}}/images/IMG_4414.jpg)
+
+![]({{site.baseurl}}/images/IMG_4420.jpg)
+
+![]({{site.baseurl}}/images/IMG_4431.jpg)
+
+![]({{site.baseurl}}/images/IMG_4444.jpg)
+
+![]({{site.baseurl}}/images/IMG_4451.jpg)
+
+![]({{site.baseurl}}/images/IMG_4458.jpg)
+
+![]({{site.baseurl}}/images/IMG_4467.jpg)
+
+![]({{site.baseurl}}/images/IMG_4471.jpg)
+
+![]({{site.baseurl}}/images/IMG_4476.jpg)
+
+![]({{site.baseurl}}/images/IMG_4486.jpg)
+
+![]({{site.baseurl}}/images/IMG_4494.jpg)
+
+![]({{site.baseurl}}/images/IMG_4526.jpg)
+
+![]({{site.baseurl}}/images/IMG_4554.jpg)
+
+![]({{site.baseurl}}/images/IMG_4558.jpg)
+
+![]({{site.baseurl}}/images/IMG_4560.jpg)
+
+![]({{site.baseurl}}/images/IMG_4571.jpg)
+
+![]({{site.baseurl}}/images/IMG_4591.jpg)
+
+![]({{site.baseurl}}/images/IMG_4599.jpg)
+
+![]({{site.baseurl}}/images/IMG_4603.jpg)
+
+![]({{site.baseurl}}/images/IMG_4611.jpg)
+
 
