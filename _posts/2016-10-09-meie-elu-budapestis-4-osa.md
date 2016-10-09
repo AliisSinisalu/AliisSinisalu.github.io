@@ -17,5 +17,15 @@ Kui Indrek käis üks õhtu jooksmas ning avastas, et autot enam polegi, siis p�
 
 Ja oh seda suurt õnnetunnet, mis meid siis valdas. Keset tühja lootusetust märkasin ma meie autonumbrit ja mul käis valu südamest läbi. Seal ta siis oli, täitsa olemas ja lõpuks käega katsutav. See oli jah huvitav, et ma märkasin autonumbrit enne, kui autot ennast :) Kõik oli jälle tore edasi.
 
-Peale Pruutuse haigust polnudki me mingit pikemat jalutusringi ette võtnud. Käisimegi siis ühel ilusal sügispäeval Margaret Island'il jalutamas ja pisikest pikniku pidamas. Pruutus oli ikka päris kutupiilu pärast koju jõudes. Pühapäeval jõudis ka meile sügis. Üsna ootamatult, võiks öelda. Kui laupäeval käisin matkal ja oli veel mõnus soe T-särgi ilm, siis pühapäeval läks väga järsult külmaks. Pidime joped sebima. Alguses nagu ehmatas see jahedus veits ära, aga praegu on päikesega väga ilus ja mõnus ringi patseerida.
+Peale Pruutuse haigust polnudki me mingit pikemat jalutusringi ette võtnud. Käisimegi siis ühel ilusal sügispäeval Margaret Island'il jalutamas ja pisikest pikniku pidamas. Pruutus oli ikka päris kutupiilu koju jõudes. Pühapäeval jõudis ka meile sügis. Üsna ootamatult, võiks öelda. Kui laupäeval käisin matkal ja oli veel mõnus soe T-särgi ilm, siis pühapäeval läks väga järsult külmaks. Pidime joped sebima. Alguses nagu ehmatas see jahedus veits ära, aga praegu on päikesega väga ilus ja mõnus ringi patseerida.
+
+Noniii, nüüd aga on aeg üllatusmuna sisu avaldada...trummipõrin...paramparampapapaa...ME TULEME KOJU TAGASI!!!!! :D Ja mul on kusjuures täiega hea meel selle üle ;) Vanadus hakkab vist ikka ligi tikkuma, sest kodus on ikka kõige parem. Lisaks turistitamisele oleme ju siin ka igapäevaselt tegelenud muude asjadega, töö teema ja nii. Indrekul oli tegelikult algusest peale lootus saada ühte konkreetsesse firmasse tööle, aga suure konkurentsi tõttu see seekord ei õnnestunud. Ta küll veel uuris ja puuris teisi variante, aga mitte miski nagu väga ei köitnud. 
+
+Mina hakkasin ka mõtlema, et pikemas perspektiivis ma ei teagi, kas ma tahan ja viitsin siin fotograafiaga tegeleda. Siuke tunne on nüüd, et meil on tegelikult Eestis palju rohkem võimalusi. Ja tegelikult ikkagi päris palju jääks ka siin keelebarjääri taha, mina ei oska ungari keelt ja siinsed inimesed väga ei taha või ei suuda inglise keeles suhelda. 
+
+Aga kõik see trip on olnud väga mõnus vaheldus ja ju siis oli vaja korra eemale saada ja avastada, mida me tegelikult tahame. Mul on uued põnevad tuuled puhumas fotograafia maastikul. Nüüd koju jõudes on vaid vaja tegutsema hakata. Fotograafia mind igatahes köidab, aga tahaks sellel maastikul edasi areneda ja nüüd mul on suund silme ees. Eks üsna pea ka räägin nendest uutest tuultest ;)
+
+Meile meeldib reisida, selles pole kahtlust! Aga ega tegelikult polegi nii mugav võõras keskkonnas elada. Eestis on ju kõik olemas - pere, sõbrad, töö... ja reisimisvõimalus ju ei kao ka kuhugile. Et praegu läks nii, vaatab mis tulevik meile veel varuks hoiab. 
+
+Nüüd on veel nädal aega Budapesti nautida, siis liigume paariks päevaks Viini, seejärel tripime Saksamaal ja ehk novembri alguseks oleme kodumaa pinnal tagasi. Halleluuujah :)
 
