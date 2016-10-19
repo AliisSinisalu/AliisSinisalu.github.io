@@ -1,5 +1,5 @@
 ---
-title:  Budapestile adaa ja willkommen, kaunis Viin!
+title:  Budapestile adaa ja hjellou, schöne Wien!
 header: 
   teaser: IMG_4649.jpg
   overlay_image: IMG_4649.jpg
