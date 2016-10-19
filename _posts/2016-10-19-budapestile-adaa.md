@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Pidime paar päeva tagasi Budapestiga hüvasti jätma..."
-published: false
+published: true
 ---
 Ahoi ahoi
 
