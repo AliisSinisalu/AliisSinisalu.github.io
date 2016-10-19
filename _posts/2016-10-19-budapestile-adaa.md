@@ -23,5 +23,27 @@ Oleme nüüd kaks päeva Viinis hänginud. Mina olen siin linnas kolmandat korda
 
 Homme vaatame Viinist välja, kuhugi loodusesse ja ülehomme juba asume Saksamaa poole teele. Me nii ootame. Baierimaa saab olema epic!
 
+![]({{site.baseurl}}/images/IMG_4621.jpg)
 
+![]({{site.baseurl}}/images/IMG_4623.jpg)
+
+![]({{site.baseurl}}/images/IMG_4637.jpg)
+
+![]({{site.baseurl}}/images/IMG_4642.jpg)
+
+![]({{site.baseurl}}/images/IMG_4645.jpg)
+
+![]({{site.baseurl}}/images/IMG_4647.jpg)
+
+![]({{site.baseurl}}/images/IMG_4655.jpg)
+
+![]({{site.baseurl}}/images/IMG_4659.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161018_143058.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161018_153715.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161018_153751.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161019_153526.jpg)
 
