@@ -9,7 +9,7 @@ header:
 excerpt: "Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna."
 published: false
 ---
-Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
+Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisimomente meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
 
 Viinist minema sõites päev kiskus jällegi vihmale. Lõuna-Saksamaale jõudes küll sadas, aga need vaated mis meid saatsid olid nii võimsad, et mu suu oli sõna otseses mõttes töllakil ja muudkui ahhetasin sellest ilust. Ma räägin, ma ei ole mingi linnainimene. Loodus köidab ikka kõige enam ;) Majutus oli meil võetud pisikesse linnakesse nimega Unterammergau. Tegelikult ei ole ma päris kindel, kuidas seda asulat nimetada. Linn on vist liiga palju öeldud, sattusime korra isegi pisikesse ummikusse - ei, mitte autoliiklusest tingitud ummikusse, vaid lehmad tahtsid karjamaalt mööda tänavaid koju saada. Täiesti normaalne! ;) 
 
