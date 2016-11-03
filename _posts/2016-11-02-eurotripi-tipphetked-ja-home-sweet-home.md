@@ -20,3 +20,5 @@ Nende paari päeva jooksul sai palju tehtud. Käisime muidugi Neuschwanstein los
 Muidugi tagasisõit (u 2000 km) oli pigem masendav. Hallid vihmased päevad ja jällegi lõputu Poola :S Kaks ööd ööbisime ka Poolas. Aga koju me lõpuks jõudsime ja no mis ma oskan öelda, hea on olla tagasi! ;) Vahel on vaja ära käia, siis on jälle hea meel koju naasta. 
 
 Täna tulimegi Tallinnasse tagasi ja hakkame jälle jalgu alla ehitama. Kuu aega pesitseme Pelgulinnas ja selle ajaga tahaks pikemaajalise korteri leida. Niiet, kui kellelgi miskit head pakkuda või teab, et keegi pakub mõnda head korterit üürile, siis võib julgesti teada anda!
+
+
