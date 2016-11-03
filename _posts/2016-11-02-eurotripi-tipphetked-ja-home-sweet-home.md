@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna."
-published: false
+published: true
 ---
 Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisimomente meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
 
@@ -78,5 +78,23 @@ Täna tulimegi Tallinnasse tagasi ja hakkame jälle jalgu alla ehitama. Kuu aega
 ![]({{site.baseurl}}/images/IMG_4858.jpg)
 
 ![]({{site.baseurl}}/images/IMG_4860.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161021_165116.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161022_142433.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161022_142857.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161022_143442.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161022_153327.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161023_121102.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161023_124426.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161023_124432.jpg)
+
+![]({{site.baseurl}}/images/IMG_20161023_132719.jpg)
 
 
