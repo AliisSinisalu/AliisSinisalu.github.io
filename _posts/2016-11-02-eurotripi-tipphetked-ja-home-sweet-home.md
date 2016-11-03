@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
 excerpt: "Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna."
-published: true
+published: false
 ---
 Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
 
