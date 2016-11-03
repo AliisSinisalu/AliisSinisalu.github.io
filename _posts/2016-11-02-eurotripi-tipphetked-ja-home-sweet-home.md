@@ -1,15 +1,15 @@
 ---
 title:  Meie eurotripi tipphetked ja... home, sweet home!
 header: 
-  teaser: IMG_4414-2.jpg
-  overlay_image: IMG_4414-2.jpg
-  image: IMG_4414-2.jpg
+  teaser: IMG_4807.jpg
+  overlay_image: IMG_4807.jpg
+  image: IMG_4807.jpg
   caption: "Photo credit: [**Aliis Sinisalu**](https://aliissinisalu.com/)"
   cta_label: Loe
-excerpt: "Vinge ja jabur - jah, see on meie Budapest. Väike üllatusmuna ka varuks ;)"
+excerpt: "Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna."
 published: false
 ---
-Tegelikult oleme me juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
+Tegelikult oleme juba nädala kodumaal viibinud, seega viimane aeg nüüd meie viimaseid mahlasemaid reisihetkesid meelde tuletada. Meenutada on palju... et kirja ei oskagi neid emotsioone nii kergesti panna. Baierimaa ja Austria alpid olid niiiii vinged lihtsalt. Kindlasti minu jaoks meie reisi tipphetked!
 
 Viinist minema sõites päev kiskus jällegi vihmale. Lõuna-Saksamaale jõudes küll sadas, aga need vaated mis meid saatsid olid nii võimsad, et mu suu oli sõna otseses mõttes töllakil ja muudkui ahhetasin sellest ilust. Ma räägin, ma ei ole mingi linnainimene. Loodus köidab ikka kõige enam ;) Majutus oli meil võetud pisikesse linnakesse nimega Unterammergau. Tegelikult ei ole ma päris kindel, kuidas seda asulat nimetada. Linn on vist liiga palju öeldud, sattusime korra isegi pisikesse ummikusse - ei, mitte autoliiklusest tingitud ummikusse, vaid lehmad tahtsid karjamaalt mööda tänavaid koju saada. Täiesti normaalne! ;) 
 
