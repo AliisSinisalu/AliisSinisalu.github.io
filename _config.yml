@@ -67,7 +67,7 @@ author:
   bio              : "Elu nagu hernes"
   location         :
   email            :
-  uri              : "http://www.aliissinisalu.com"
+  uri              : "https://www.aliissinisalu.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
 
 prose:
-  siteurl: 'http://blog.aliissinisalu.com/'
+  siteurl: 'https://blog.aliissinisalu.com/'
   media: 'images'
   metadata:
     _posts:
